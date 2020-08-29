@@ -2,7 +2,7 @@
 ![ Dev Lucca's github stats](https://github-readme-stats.vercel.app/api?username=mrlucca&show_icons=true&theme=radical)
 
 
-- 🔭 I’m currently working on Uninove...
+- 🔭 I’m currently working on freelancer projects
 - 🌱 I’m currently learning php, java, javascript, Clean Code, SOLID e Design Patterns
 - 👯 I’m looking to collaborate on System Development
 - 🤔 I’m looking for help with 
