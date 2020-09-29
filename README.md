@@ -9,7 +9,6 @@
 - 💬 Ask me about the importance of writing good code 
 - 📫 How to reach me: 
 - LinkedIn: <a href = "https://www.linkedin.com/in/lucca-vinicios-7884291b3/">Lucca Vinicios</a>
-- Twitter: <a href = "https://twitter.com/MrFate42?s=08">MrLucca</a>
 
 - ⚡ Fun fact: Miau 😼
 
