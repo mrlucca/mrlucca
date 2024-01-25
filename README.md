@@ -3,12 +3,13 @@
 
 ```python
 def process_the_truth(cup_coffee_instance: CupCoffee):
-  if cup_coffee_instance.empty():
-    cup_coffee_instance.clean()
-    cup_coffee_instance.use(GroundCoffee())
-    cup_coffee_instance.use(HotWater())
-    cup_coffee_instance.stir()
+  if not cup_coffee_instance.empty():
     return cup_coffee_instance
+    
+  cup_coffee_instance.clean()
+  cup_coffee_instance.use(GroundCoffee())
+  cup_coffee_instance.use(HotWater())
+  cup_coffee_instance.stir()
   return cup_coffee_instance
 ```
 - 📫 How to reach me: 
