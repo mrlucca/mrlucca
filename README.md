@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![ Dev Lucca's github stats](https://github-readme-stats.vercel.app/api?username=mrlucca&show_icons=true&theme=radical)
 
-```
+```python
 def process_the_truth(cup_coffee_instance: CupCoffee):
   if cup_coffee_instance.empty():
     cup_coffee_instance.clean()
